@@ -129,7 +129,4 @@ If you find this project useful, please give it a star ⭐ and share it!
 
 ```
 
----
 
-اگر بخواهی می‌توانم فایل Python کامل، Jupyter Notebook، `requirements.txt` و آموزش قدم‌به‌قدم اجرا هم برایت آماده کنم. فقط کافیه بگو!
-```
