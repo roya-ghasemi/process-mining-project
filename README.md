@@ -1,4 +1,4 @@
-Introduction to Process Mining using Python (PM4PY)
+##Introduction to Process Mining using Python (PM4PY)
 Summary
 Process mining is a family of techniques in the field of process management that support the analysis of business processes based on event logs. During process mining analysis, a specialized data mining algorithms are applied to the event logs (after transform it) in order to identify trends, patterns and extract insights. Process mining aims to improve process efficiency and the understanding of the processes themselves which in turn help in making better business decisions. It captures the digital footprints from any number of systems throughout an organization and organizes them in a way that shows each step of the journey to complete that process, along with any deviations from the expected path.
 
@@ -11,6 +11,11 @@ The notebooks folder contains the full jupyter notebook. The data folder (raw da
 Note: when running the notebook, make sure to change the path to the file.
 
 Examples of Algorithms used
+
+
+
+
+
 Alpha Minner algorithm
 <p align="center">
   <img src="alpha_miner_petri_net.png"  alt="Confusion Matrix">
