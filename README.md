@@ -158,15 +158,19 @@ Senior Data Scientist & Process Mining Specialist
 If you find this project useful, please give it a star ⭐ and share it!
 
 ---
-**output1 with bugs**
+## output1 with bugs
+
 <p align="center">
   <img src="r3.jpg"  alt="Confusion Matrix">
 </p>
-**output2 with bugs**
+
+## output2 with bugs 
+
 <p align="center">
   <img src="r2.jpg"  alt="Confusion Matrix">
 </p>
-**output3**
+
+## output3
 
 <p align="center">
   <img src="1.jpg"  alt="Confusion Matrix">
